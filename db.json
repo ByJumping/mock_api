@@ -1,9 +1,9 @@
 {
-  "auth-success": {
+  "auth_success": {
     "id": 1,
     "jwt": "adsasdsadsasdasdadasdas"
   },
-  "auth-failed": {
+  "auth_failed": {
     "error": "oi"
   }
 }
