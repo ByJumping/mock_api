@@ -1,9 +1,9 @@
 {
   "auth_success": {
-    "id": 1,
-    "jwt": "adsasdsadsasdasdadasdas"
+    "accessToken": "fvkfkdk5kgkevkkj65k6vkedkvsk",
+    "refreshToken": "fmfu675858fgjuug"
   },
   "auth_failed": {
-    "error": "oi"
+    "error": "error"
   }
 }
