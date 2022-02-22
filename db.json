@@ -1,0 +1,10 @@
+{
+  "auth-success": {
+    "id": 1,
+    "jwt": "adsasdsadsasdasdadasdas"
+  },
+  {
+  "auth-failed": {
+    "error": 'oi'
+  }
+}
